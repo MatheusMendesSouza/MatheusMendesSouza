@@ -30,7 +30,7 @@ Atualmente, estou focado em construir aplicações web robustas e escaláveis. M
 ---
 
 ### 📫 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheusmendessouza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmendessouza)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmendes14sz@gmail.com)
 
 ---
